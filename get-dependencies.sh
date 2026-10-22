@@ -17,7 +17,8 @@ pacman -Syu --noconfirm \
 	libxinerama        \
 	libxrandr          \
 	ninja              \
-	nodejs
+	nodejs             \
+	npm
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"

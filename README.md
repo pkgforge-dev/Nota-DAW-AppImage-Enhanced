@@ -1,10 +1,10 @@
 <div align="center">
 
-# Note-DAW-AppImage-Enhanced 🐧
+# Nota-DAW-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Note-DAW-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Note-DAW-AppImage-Enhanced/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/Note-DAW-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Note-DAW-AppImage-Enhanced/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Note-DAW-AppImage-Enhanced)](https://github.com/pkgforge-dev/Note-DAW-AppImage-Enhanced/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Nota-DAW-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Nota-DAW-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Nota-DAW-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Nota-DAW-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Nota-DAW-AppImage-Enhanced)](https://github.com/pkgforge-dev/Nota-DAW-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nota-daw/nota/main/assets/icons/linux/nota-256.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Note-DAW-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/nota-daw/nota) |
+| [Click here](https://github.com/pkgforge-dev/Nota-DAW-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/nota-daw/nota) |
 
 </div>
 
